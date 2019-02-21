@@ -1,2 +1,2 @@
 # wordlister-finnish
-A quick random sampler of the official Finnish corpus
+I've been doing freelance translation, proofreading and the occasional content writing as a way to support my studies. One day I got a peculiar request: a wordlist comprising 3500 Finnish words needed to be increased to 5000, for crossword puzzle purposes. My manager suggested I find a dictionary and just start typing, which of course would've taken a tiny eternity. I tamed this time eater by creating a simple script that would randomly sample the official Finnish corpus per the requirements set by the client (mainly a variable word length) and write the sample into an Excel file (as per request). The entire process from receiving the job to delivering the Excel file took just 3 hrs.  
